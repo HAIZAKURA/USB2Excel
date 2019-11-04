@@ -1,0 +1,10 @@
+C:\Users\hhbil\Desktop\USB2Excel\USB2Excel\bin\Debug\USB2Excel.exe
+C:\Users\hhbil\Desktop\USB2Excel\USB2Excel\bin\Debug\USB2Excel.pdb
+C:\Users\hhbil\Desktop\USB2Excel\USB2Excel\obj\Debug\USB2Excel.csprojAssemblyReference.cache
+C:\Users\hhbil\Desktop\USB2Excel\USB2Excel\obj\Debug\USB2Excel.Form1.resources
+C:\Users\hhbil\Desktop\USB2Excel\USB2Excel\obj\Debug\USB2Excel.Properties.Resources.resources
+C:\Users\hhbil\Desktop\USB2Excel\USB2Excel\obj\Debug\USB2Excel.csproj.GenerateResource.cache
+C:\Users\hhbil\Desktop\USB2Excel\USB2Excel\obj\Debug\USB2Excel.csproj.CoreCompileInputs.cache
+C:\Users\hhbil\Desktop\USB2Excel\USB2Excel\obj\Debug\USB2Excel.exe
+C:\Users\hhbil\Desktop\USB2Excel\USB2Excel\obj\Debug\USB2Excel.pdb
+C:\Users\hhbil\Desktop\USB2Excel\USB2Excel\obj\Debug\USB2Excel.Form2.resources
